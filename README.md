@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dosumuadewale5@gmail.com
-- 😄 Pronouns: 😂😂 He 
+- 😄 Pronouns: He
 - ⚡ Fun fact: "The best error message is the one that never shows up"
 
 <!---
