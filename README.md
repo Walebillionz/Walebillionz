@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walebillionz
+- 👋 Hi, I’m @Kanji
 - 👀 I’m interested in Web programming 
 - 🌱 I’m currently learning JavaScript 
 - 💞️ I’m looking to collaborate on ...
